@@ -284,18 +284,10 @@ I reviewed and tested the generated suggestions before using them and made sure 
 * [x] Invalid URL handling
 * [x] Shared Axios configuration
 
-## GitHub
-
-Repository:
-
-```text
-<your-github-repository-url>
-```
-
 ## Live Demo
 
 ```text
-<your-vercel-or-netlify-url>
+<product-admin-dashboard-7djwp2lic-shantanu-2d77.vercel.app>
 ```
 
 ## Notes
