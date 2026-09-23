@@ -4,6 +4,11 @@ A small product management dashboard built with **Next.js, React, Tailwind CSS, 
 
 The application allows users to log in, browse products, search and filter them, view product details, and perform add, edit, and delete operations from the dashboard.
 
+
+## Live Demo
+
+[View Live Demo](https://product-admin-dashboard-7djwp2lic-shantanu-2d77.vercel.app)
+
 ## Tech Stack
 
 * Next.js
@@ -284,11 +289,6 @@ I reviewed and tested the generated suggestions before using them and made sure 
 * [x] Invalid URL handling
 * [x] Shared Axios configuration
 
-## Live Demo
-
-```text
-<product-admin-dashboard-7djwp2lic-shantanu-2d77.vercel.app>
-```
 
 ## Notes
 
